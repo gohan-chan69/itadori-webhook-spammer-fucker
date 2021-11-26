@@ -1,6 +1,6 @@
 # itadori-webhook-spammer-fucker
 <p align="center">
-<a href="https://github.com/gohan-chan69/itadori-webhook-spammer-fucker/edit/main/README.md">
+<a href="https://gohan.questionable.link/5gHvyzvYt">
 <img src="./prewiew.gif">
 </a>
 </p>
