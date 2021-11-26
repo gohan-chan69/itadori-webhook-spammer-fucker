@@ -1,6 +1,6 @@
 # itadori-webhook-spammer-fucker
 <p align="center">
-<a href="https://asciinema.org/a/223115">
+<a href="https://github.com/gohan-chan69/itadori-webhook-spammer-fucker/edit/main/README.md">
 <img src="./prewiew.gif">
 </a>
 </p>
