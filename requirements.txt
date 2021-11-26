@@ -1,0 +1,10 @@
+sys
+colorama
+time
+os
+requests
+asyncio
+threading
+random
+pypresence
+pyfiglet
