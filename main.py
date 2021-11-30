@@ -10,12 +10,21 @@ from threading import Timer
 import random
 from pypresence import Presence
 import colorama
-import pyfiglet
+
 opt = f'''
 {Style.BRIGHT}{Fore.YELLOW}[{Fore.RESET}1{Style.BRIGHT}{Fore.YELLOW}] webhook spammer
 {Style.BRIGHT}{Fore.YELLOW}[{Fore.RESET}2{Style.BRIGHT}{Fore.YELLOW}] webhook fucker
 ''' 
-itadori_logo = pyfiglet.figlet_format("ITADORI", font = "alligator" )
+itadori_logo = ''' ██▓▄▄▄█████▓ ▄▄▄      ▓█████▄  ▒█████   ██▀███   ██▓
+▓██▒▓  ██▒ ▓▒▒████▄    ▒██▀ ██▌▒██▒  ██▒▓██ ▒ ██▒▓██▒
+▒██▒▒ ▓██░ ▒░▒██  ▀█▄  ░██   █▌▒██░  ██▒▓██ ░▄█ ▒▒██▒
+░██░░ ▓██▓ ░ ░██▄▄▄▄██ ░▓█▄   ▌▒██   ██░▒██▀▀█▄  ░██░
+░██░  ▒██▒ ░  ▓█   ▓██▒░▒████▓ ░ ████▓▒░░██▓ ▒██▒░██░
+░▓    ▒ ░░    ▒▒   ▓▒█░ ▒▒▓  ▒ ░ ▒░▒░▒░ ░ ▒▓ ░▒▓░░▓  
+ ▒ ░    ░      ▒   ▒▒ ░ ░ ▒  ▒   ░ ▒ ▒░   ░▒ ░ ▒░ ▒ ░
+ ▒ ░  ░        ░   ▒    ░ ░  ░ ░ ░ ░ ▒    ░░   ░  ▒ ░
+ ░                 ░  ░   ░        ░ ░     ░      ░  
+                        ░                            '''
 if sys.platform == 'win32':
     loop = asyncio.ProactorEventLoop()
     asyncio.set_event_loop(loop)
@@ -129,5 +138,22 @@ def itadori():
 
 
          
-     menu()          
+     menu()
+       
+
+
+       
+
+
+
+
+
+
 itadori()
+
+
+
+
+
+
+
