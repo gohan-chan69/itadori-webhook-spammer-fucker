@@ -1,10 +1,10 @@
 sys
-colorama
+colorama==0.4.4
 time
 os
 requests
 asyncio
 threading
 random
-pypresence
-pyfiglet
+pypresence==4.2.1
+
